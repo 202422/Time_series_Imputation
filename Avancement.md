@@ -9,3 +9,7 @@ Pour le bloc de code du RNN, j'ai rencontré plusieurs difficultés lors de son 
 Date: 25/07/2024
 
 Lors des modifications précédentes effectuées sur le bloc du RNN, j'ai commis une erreur lors du calcul des metrics d'évaluation dans la partie 2 et 3. En effet, le calcul de la métrique PRED nécessite la prise en compte de toutes les valeurs précédentes. Donc j'ai modifié le code de la partie 2 (nommée impution_code_bgl_part2.ipynb) et partie 3 (impution_code_bgl_final.ipynb) afin de charger les metriques calculées dans les parties précédentes. Par exemple dans la partie 2 je charge les metriques calculées dans la partie 1 (nommée impution_code_bgl_part1.ipynb) et je regroupe les réultats ensemble. Dans la partie 3 je charge les metriques calculée dans la partie 2.
+
+Date: 27/07/2024
+
+En me basant sur le code d'imputation des datasets avec 5% de missing values, j'ai créé les code d'imputation des datasets avec 10% et 20 % de valeurs manquantes. Ensuite j'ai réalisé l'imputation des valeurs manquantes sur les datasets à 10% de missing values. Ce travail a nécessité une imputation en 4 étapes lié à la faible capacité de la ram. J'ai par la suite calculé les metrics d'évaluation des modèles entrainés.
