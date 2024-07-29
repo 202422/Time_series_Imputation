@@ -13,3 +13,7 @@ Lors des modifications précédentes effectuées sur le bloc du RNN, j'ai commis
 Date: 27/07/2024
 
 En me basant sur le code d'imputation des datasets avec 5% de missing values, j'ai créé les code d'imputation des datasets avec 10% et 20 % de valeurs manquantes. Ensuite j'ai réalisé l'imputation des valeurs manquantes sur les datasets à 10% de missing values. Ce travail a nécessité une imputation en 4 étapes lié à la faible capacité de la ram. J'ai par la suite calculé les metrics d'évaluation des modèles entrainés.
+
+Date: 28/07/2024
+
+J'ai réalisé l'imputation des datasets avec 20% de valeurs manquantes et le calcul des métriques
