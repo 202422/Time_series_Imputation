@@ -17,3 +17,7 @@ En me basant sur le code d'imputation des datasets avec 5% de missing values, j'
 Date: 28/07/2024
 
 J'ai réalisé l'imputation des datasets avec 20% de valeurs manquantes et le calcul des métriques
+
+Date: 02/08/2024
+
+J'ai réalisé l'imputation des datasets avec 30% de valeurs manquantes et le calcul des métriques
