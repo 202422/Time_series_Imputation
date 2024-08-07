@@ -21,3 +21,7 @@ J'ai réalisé l'imputation des datasets avec 20% de valeurs manquantes et le ca
 Date: 02/08/2024
 
 J'ai réalisé l'imputation des datasets avec 30% de valeurs manquantes et le calcul des métriques
+
+Date: 06/08/2024
+
+Après le calcul des métriques pour le dataset avec 30% de valeurs manquantes, j'ai créée un dataset pour concatener les résultats des metriques de chaque partie et aussi calculer la colonne PRED que je n'avais pas calculé dans ces parties par soucis de cohérence de résultats.
